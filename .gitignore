@@ -1,0 +1,4 @@
+#cd "C:\Users\CCTO\Documents\Qr-Attendance-Bubuli-main\Qr-Attendance-Bubuli-main"
+ Local env files
+.env
+.env*.local
